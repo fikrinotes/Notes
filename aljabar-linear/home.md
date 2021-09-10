@@ -14,9 +14,5 @@ Selamat membaca!
 
 <hr/>
 
-<div align="center"> 
-
-Created With :heart: by [Fikri Mulyana Setiawan](https://fikrinotes.netlify.app/) using Github Markdown 
-
-</div>
+<div align="center"> Created With :heart: by [Fikri Mulyana Setiawan](https://fikrinotes.netlify.app/) using Github Markdown </div>
 
