@@ -14,4 +14,13 @@ Since 3 month ago, i have been writing article about programming in medium. Here
 - [How To Build Weather WebApp With Javascript](https://javascript.plainenglish.io/how-to-build-a-weather-web-app-using-vanilla-javascript-5518dbb92c52) 
 - [How To Make An Animation Using Animate On Scroll library](https://medium.com/geekculture/how-to-make-an-animation-using-animate-on-scroll-8f57ef73924c)
 
-And, if you curious, this blog is made form github markdown.
+# Blogging Website 
+You can also read my articles at : 
+
+<a href="https://fikrinotes.medium.com"/> ![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://dev.to/fikrinotes">![dev to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
+<a href="https://fikrinotes.hashnode.dev">![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
+
+<hr/>
+
+Created With ♥️ By <a href="https://fikrinotes.netlify.app/">Fikri Mulyana Setiawan</a>
