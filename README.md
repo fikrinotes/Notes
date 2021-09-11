@@ -17,7 +17,7 @@ Since 3 month ago, i have been writing article about programming in medium. Here
 # Blogging Website 
 You can also read my articles at : 
 
-<a href="https://fikrinotes.medium.com"/> ![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://fikrinotes.medium.com">![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://dev.to/fikrinotes">![dev to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 <a href="https://fikrinotes.hashnode.dev">![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
 
