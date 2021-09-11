@@ -23,4 +23,8 @@ You can also read my articles at :
 
 <hr/>
 
+<center>
+
 Created With ♥️ By <a href="https://fikrinotes.netlify.app/">Fikri Mulyana Setiawan</a>
+
+</center>
