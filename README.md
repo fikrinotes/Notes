@@ -1,5 +1,9 @@
-# What Is This?
-Fikri Notes Blog is a Blog for fikri notes website. This blog comes from the ideas of sharing my thought and knowledge. In this blog, i would write these things :
+# About Fikri Notes' Blog
+Fikri Notes' Blog is a Blog for [Fikri Notes](https://fikrinotes.netlify.app) website. This blog comes from the ideas of sharing my thought and knowledge. After look arround, i realize that everyone is smart, actually. But, the old-school teach them with the wrong way. The school encourage them to memorize all of things: word, shape, formula... They should memorize everything. 
+
+But, i think this is not the right way to learn. I think the right way to learn is to understand the basics, try and error. That way, i want to write full article that implement this concept of learning. Generally, i'll write about programming. But, it's not impossible for me to write another random articles, like science, math, etc. 
+
+In this blog, i would write these things :
 - Programming Language Tutorials
 - Web Programming Courses 
 - Statistics Courses
