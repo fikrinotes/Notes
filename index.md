@@ -24,7 +24,7 @@ Since 3 month ago, i have been writing article about programming in medium. Here
 - [How To Build Weather WebApp With Javascript](https://javascript.plainenglish.io/how-to-build-a-weather-web-app-using-vanilla-javascript-5518dbb92c52) 
 - [How To Make An Animation Using Animate On Scroll library](https://medium.com/geekculture/how-to-make-an-animation-using-animate-on-scroll-8f57ef73924c)
 
-\\\(mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}\\\)
+$$2x+3$$
 
 # Blogging Website 
 You can also read my articles at : 
