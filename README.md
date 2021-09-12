@@ -1,6 +1,8 @@
+
 |title|
 |-----|
 |Fikri Notes|
+
 # About Fikri Notes' Blog
 Fikri Notes' Blog is a Blog for [Fikri Notes](https://fikrinotes.netlify.app) website. This blog comes from the ideas of sharing my thought and knowledge. After look arround, i realize that everyone is smart, actually. But, the old-school teach them with the wrong way. The school encourage them to memorize all of things: word, shape, formula... They should memorize everything. 
 
