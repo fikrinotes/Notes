@@ -1,5 +1,7 @@
 ---
 title: Fikri Notes
+date: 2020-04-15 15:19:23
+categories: Homepage
 ---
 
 # About Fikri Notes' Blog
