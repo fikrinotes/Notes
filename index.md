@@ -2,6 +2,7 @@
 title: Fikri Notes
 date: 2020-04-15 15:19:23
 categories: Homepage
+usemathjax:true
 ---
 
 # About Fikri Notes' Blog
