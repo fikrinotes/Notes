@@ -2,4 +2,3 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 plugins:
   - jekyll-sitemap
-  - jekyll-spaceship
