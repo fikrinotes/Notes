@@ -12,9 +12,11 @@ Ini adalah contoh beberapa aplikasi yang pernah saya buat dengan memanfaatkan al
 
 Selamat membaca!
 
+Soal : $$\frac{2x}{3x^2+23y}+5$$
 <hr/>
 
 <div align="center">  
 Created With ♥️ by Fikri Mulyana Setiawan using Github Markdown  
 </div>
 
+{% include footer.html %}
