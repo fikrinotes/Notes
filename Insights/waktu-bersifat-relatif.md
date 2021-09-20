@@ -38,6 +38,7 @@ $$
 $$
 d= \frac{∆t_p.c}{2}...(1)
 $$
+
 dimana $∆t_p$ adalah waktu menurut pengamat O'
 
 sedangkan menurut pengamat O yang diam di luar kereta, lintasan cahaya laser akan terlihat seperti ini:
@@ -70,5 +71,27 @@ $$
 \frac{c∆t_p}{2}=\sqrt[2]{\frac{∆t^2}{4}(c^2-v^2)}
 $$
 
+jika disederhanakan akan menjadi:
+
+$$
+∆t=\frac{∆t_p}{\sqrt[2]{1-\frac{v^2}{c^2}}}
+$$
+
+jika kita tetapkan $\gamma =\frac{1}{\sqrt[2]{1-\frac{v^2}{c^2}}}$ maka: 
+
+$$
+∆t=\gamma ∆t_p
+$$ 
+
+karena nilai $v$ selalu lebih kecil daripada nilai $c$,maka $\gamma\geq1$. berarti waktu yang dirasakan oleh pengamat yang diam terhadap tanah($∆t$) lebih lama daripada waktu yang dirasakan oleh pengamat yang bergerak terhadap tanah ($∆t$).
+
+fenomena perbedaan waktu yang dirasakan pengamat kedua pengamat tersebut dikenal dengan nama **dilatasi waktu**. 
+
+# Bukti Nyata 
+fenomena dilatasi waktu telah memiliki banyak bukti walaupun terukur dalam skala kecil. contoh nyata tentang dilatasi waktu yaitu partikel mu-mesons(muons). muons adalah partikel elementer yang tidak stabil yang memiliki muatan seperti elektron dan massanya 207 kali elektron. muons terbentuk di atmosfer. muons hanya berumur 2,2$\mu s$ jika dikukur menurut pengamat yang diam terhadap partikel tersebut,dengan kata lain $∆t_p=2,2\mu s$. dengan umur sepanjang itu,muons hanya menempuh jarak sekitar 600m sebelum partikel tersebut rusak. partikel muons tidak akan pernah mencapai permukaan bumi walaupun dengan kecepatan mendekati kecepatan cahaya.tapi nyatanya para ilmuwan menunjukkan bahwa muons bisa sampai ke bumi sebelum partikel tersebut rusak.peristiwa ini adalah bukti dari dilatasi waktu yang dialami muons.muons memiliki kecepatan sekitar 0,99$c$,maka $\gamma=7.1$,sehingga $∆t=\gamma∆t_p=7,1×2,2=15,6\mu s$, waktu yang cukup bagi muons dengan kecepatan mendekati kecepatan cahaya untuk mencapai permukaan bumi. 
+
+hasil yang sama juga ditunjukkan oleh eksperimen yang dilakukan oleh joseph C.hafel dan richard E.keating dalam eksperimen yang bernama Hafel-keating experiment.Di dalam _paper_ mereka,mereka menulis:"Relatif terhadap waktu atom skala Observatorium Angkatan Laut AS, jam terbang kehilangan 59 ns selama perjalanan ke timur dan naik 273 ns selama perjalanan ke barat" .ya,beda waktu nya cuma dalam satuan nanosekon,tapi itu eksperimen yang cukup untuk membuktikan dilatasi waktu.
+
+jadi waktu di suatu tempat memang bisa melambat terhadap waktu di tempat lain,fenomena ini disebut dilatasi waktu.sekian penjelasan untuk kali ini,terimakasih atas perhatiannya.
 
 {% include footer.html %}
