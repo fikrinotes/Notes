@@ -22,11 +22,10 @@ Balik lagi ke pertanyaan tadi,jawabannya adalah:**bisa**.alasannya bersumber dar
 
 dengan 2 postulat ini,kita dapat menunjukkan bahwa "waktu" benar-benar relatif.misalkan ada pengamat O' yang diam di atas kereta yang bergerak dengan kecepatan $v$ terhadap tanah, sambil memegang sebuah laser yang diarahkan ke bagian atas kereta.di bagian atas kereta terdapat sebuah cermin yang berjarak $d$ dari laser. Lalu misalkan diluar kereta ada pengamat O yang diam terhadap tanah. menurut pengamat O' yang berada di dalam kereta,jalur lintasan cahaya laser akan terlihat seperti berikut:
 
-<center> 
+
 
 ![image](https://fikrinotes.netlify.app/rel1.JPG)
 
-</center> 
 
 karena kecepatan cahaya adalah 
 c
