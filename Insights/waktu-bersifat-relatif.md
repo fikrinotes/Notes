@@ -24,7 +24,7 @@ dengan 2 postulat ini,kita dapat menunjukkan bahwa "waktu" benar-benar relatif.m
 
 <div align="center">
 
-![image](https://fikrinotes.netlify.app/rel1.JPG)
+<img src="https://fikrinotes.netlify.app/rel1.JPG" alt="image"/>
 
 </div>
 
