@@ -36,8 +36,11 @@ $$
 
 
 $$
-d= \frac{∆t_p.c}{2}
+d= \frac{∆t_p.c}{2}...(1)
 $$
 
+<figcaption>
+ini gambar
+</figcaption>
 
 {% include footer.html %}
