@@ -28,12 +28,6 @@ dengan 2 postulat ini,kita dapat menunjukkan bahwa "waktu" benar-benar relatif.m
 
 </div>
 
-<figcaption>
-
-ini gambar
-
-</figcaption>
-
 karena kecepatan cahaya adalah $c$ ,dan jarak antara laser ke cermin adalah $d$, maka waktu yang dibutuhkan oleh laser untuk menuju cermin dan balik lagi menurut pengamat O' adalah 
 
 $$
@@ -44,5 +38,37 @@ $$
 $$
 d= \frac{∆t_p.c}{2}...(1)
 $$
+dimana $∆t_p$ adalah waktu menurut pengamat O'
+
+sedangkan menurut pengamat O yang diam di luar kereta, lintasan cahaya laser akan terlihat seperti ini:
+
+<div align="center">
+<img src="https://fikrinotes.netlify.app/rel2.JPG" alt="image 2"/>
+</div>
+
+sesuai postulat einstein yang pertama, pengamat O akan melihat bahwa garis diagonal di atas ditempuh cahaya dengan kecepatan $c$ pula,dan dalam rentang waktu $∆t$ untuk menuju cermin dan memantul kembali($∆t$ adalah waktu yang dirasakan pengamat O).jadi panjang 1 garis diagonal adalah $\frac{∆t.c}{2}$. lalu karena kereta bergerak dengan kecepatan $v$ dan waktu yang dibutuhkan agar cahaya laser sampai ke cermin dan kembali adalah $∆t$,maka waktu yang diperlukan cahaya untuk sampai ke cermin tanpa memantul adalah $\frac{∆t}{2}$. sehingga panjang garis horizontal adalah $\frac{v∆t}{2}$.untuk lebih jelasnya perhatikan gambar berikut:
+
+<div align="center">
+
+<img src="https://fikrinotes.netlify.app/rel3.JPG" alt="image3"/>
+
+</div>
+
+lalu dengan teorema pythagoras,kita dapat menyatakan: 
+
+$$
+d^2+(\frac{v∆t}{2})^2=(\frac{c.∆t}{2})^2
+$$
+
+lalu substitusi nilai $d$ dari persamaan 1:
+
+$$
+(\frac{c∆t_p}{2})^2+(\frac{v∆t}{2})^2=(\frac{c.∆t}{2})^2
+$$
+
+$$
+\frac{c∆t_p}{2}=\sqrt[2]{\frac{∆t^2}{4}(c^2-v^2)}
+$$
+
 
 {% include footer.html %}
