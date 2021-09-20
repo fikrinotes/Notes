@@ -28,6 +28,12 @@ dengan 2 postulat ini,kita dapat menunjukkan bahwa "waktu" benar-benar relatif.m
 
 </div>
 
+<figcaption>
+
+ini gambar
+
+</figcaption>
+
 karena kecepatan cahaya adalah $c$ ,dan jarak antara laser ke cermin adalah $d$, maka waktu yang dibutuhkan oleh laser untuk menuju cermin dan balik lagi menurut pengamat O' adalah 
 
 $$
@@ -38,9 +44,5 @@ $$
 $$
 d= \frac{∆t_p.c}{2}...(1)
 $$
-
-<figcaption>
-ini gambar
-</figcaption>
 
 {% include footer.html %}
