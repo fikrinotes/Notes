@@ -11,7 +11,7 @@ description: Fikri Notes
 # Introduction To Calculus
 
 <center>
-<img alt="cover" src="https://miro.medium.com/max/1400/1*1c4uAKmMlvsyOfZlmsVnsg.jpeg"/>
+<img alt="cover" src="https://miro.medium.com/max/1400/1*1c4uAKmMlvsyOfZlmsVnsg.jpeg" width="300"/>
 </center>
 
 _"Kalkulus? 😰"_ 
