@@ -1,5 +1,6 @@
 ---
-title: Fikri Notes
+title: Fikri Notes 
+description: desc
 ---
 
 <hr/>
@@ -28,13 +29,17 @@ Seperti yang kamu lihat, tidak terlalu sulit, bukan?
 
 ## Apa Yang Akan Kamu Pelajari?
 Secara umum, kamu akan mempelajari hal-hal berikut :
-- Turunan
-- Integral
-- Persamaan Differensial
-- Penerapan Kalkulus di Kehidupan Nyata 
+- _Turunan_
+- _Integral_
+- _Persamaan Differensial_
+- _Penerapan Kalkulus di Kehidupan Nyata_
 
 ## Buku Tambahan 
 Jika kamu ingin belajar lebih lanjut, kamu bisa merujuk ke buku ini:
-- Calculus, by James Stewart
-- Schaum’s Outline Advanced Calculus 
-- Mathematical Method For Physics And Engineering, Cambridge University Press
+- _Calculus_, by James Stewart
+- _Schaum’s Outline Advanced Calculus_
+- _Mathematical Method For Physics And Engineering_, Cambridge University Press
+
+<hr/>
+
+_Artikel ini juga pernah saya tulis dalam bahasa inggris di [Medium.com](https://medium.com/math-simplified/tagged/calculus-for-everyone)_
