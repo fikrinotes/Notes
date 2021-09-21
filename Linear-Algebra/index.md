@@ -1,5 +1,5 @@
 # Aljabar Linear 
-Bagi sebagian besar orang, aljabar linear merupakan mimpi buruk. Mimpi buruk, karena kompleksitas dari materi ini. _tidak_ , kamu salah. Sebenarnya aljabar linear itu tidak lebih dari sekedar aljabar biasa. Perbedaanya hanya terletak pada data yang kita olah. Jika pada aljabar kita hanya mengolah angka, maka pada aljabar linear kita mengolah matriks. 
+Bagi sebagian besar orang, aljabar linear merupakan mimpi buruk. Mimpi buruk, karena kompleksitas dari materi ini, padahal sebenarnya tidak juga. Sebenarnya aljabar linear itu tidak lebih dari sekedar aljabar biasa. Perbedaanya hanya terletak pada data yang kita olah. Jika pada aljabar kita hanya mengolah angka, maka pada aljabar linear kita mengolah matriks. 
 
 ## Kenapa Aljabar Linear Itu Penting ? 
 Anda tentunya tidak asing lagi dengan media komunikasi visual seperti televisi, smartphone, dan sebagainya. Atau setidaknya, tentu anda pernah bermain game bukan? Apakah anda tau, bahwa semuanya itu hadir karena adanya ilmu aljabar linear. Fitur fitur editing video seperti zoom-in dan zoom-out dibuat berdasarkan konsep transformasi matriks yang merupakan dasar dari aljabar linear. Pergerakan karakter di dalam game pun juga diatur berdasarkan aljabar linear.
