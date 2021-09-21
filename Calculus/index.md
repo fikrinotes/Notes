@@ -1,6 +1,6 @@
 ---
-title: Fikri Notes 
-description: desc
+title: Introduction To Calculus
+description: Fikri Notes
 ---
 
 <hr/>
