@@ -1,5 +1,5 @@
 ---
-title: Apa Itu Limit?
+title: Limit - Definisi Intuitif dan Beberapa Limit Fungsi Umum 
 description: Fikri Notes
 ---
 
