@@ -3,6 +3,8 @@ title: Apa Itu Limit?
 description: Fikri Notes
 ---
 
+<link rel="shortcut icon" type="image/png" href="https://fikrinotes.netlify.app/logo_fix.png">
+
 <center>
 <img alt="image" src="https://miro.medium.com/max/1128/1*5Tu6aWuWveoyX-5HYnksRA.png" width="500"/>
 </center>
