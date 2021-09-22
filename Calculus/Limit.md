@@ -18,12 +18,29 @@ Cuma sebagai pengingat, pada fungsi $f(x)=2x+3$, $x$ disebut sebagai domain dan 
 <img alt="soal 1" src="https://miro.medium.com/max/1128/1*qW8l8rBLkioPkRz5hL-j2g.png"/>
 </center>
 
-Jika kamu menghitungnya dengan benar, kamu akan menemukan bahwa jawaban soal di atas adalah 0/0, _alias_ tidak terdefinisi. Tapi untuk suatu dan lain hal, kita tetap perlu mengetahui nilai $f(x)$ untuk $x$ mendekati 1 ini. Nah, disinilah konsep limit akan berguna. Kita bisa menghitung nilai $f(x)$ untuk x mendekati 1. Kata _mendekati_ disini berarti nilai x sangat-sangat dekat dengan 1, contohnya $x=0.999999...$ atau $x=1.000000...009$. kedua nilai tersebut sangat dekat dengan 1 sehingga bisa dianggap sebagai nilai yang tepat untuk f(1) (walaupun nilai f(1) sebenarnya tidak ada).
+Jika kamu menghitungnya dengan benar, kamu akan menemukan bahwa jawaban soal di atas adalah 0/0, _alias_ tidak terdefinisi. Tapi untuk suatu dan lain hal, kita tetap perlu mengetahui nilai $f(x)$ untuk $x$ mendekati 1 ini. Nah, disinilah konsep limit akan berguna. Kita bisa menghitung nilai $f(x)$ untuk x mendekati 1. Kata _mendekati_ disini berarti nilai x sangat-sangat dekat dengan 1, contohnya $x=0.999999...$ atau $x=1.000000...009$. kedua nilai tersebut sangat dekat dengan 1 sehingga nilai ini bisa dianggap merepresentasikan nilai yang tepat untuk f(1) (walaupun nilai f(1) sebenarnya tidak ada).
 
+<center>
 
+<img alt="image" src="https://miro.medium.com/max/1400/1*LRqHaLoSxSlok-onJMzcxA.png"/>
+
+</center>
+
+Pada grafik di atas, kita tetap bisa melihat nilai untuk x=1 karena sebenarnya itu hanyalah nilai limit untuk x mendekati 1. Coba lihat animasi berikut :
+
+<center>
+
+<img alt="image" src="https://miro.medium.com/max/1400/1*3T8p3VLmF22nciAVzh-O-Q.gif"/>
+
+</center>
+
+Kita tidak bisa mengatakan bahwa saat nilai x adalah 1, nilai y adalah 2. Walaupun begitu, kita tau bahwa saat nilai x sangat dekat dengan 1, maka nilai y akan sangat dekat dengan 2. Nah, untuk menyatakan hal ini, matematikawan menggunakan istilah _**limit**_. Jadi, grafik di atas dapat dinayatakan sebagai :
+> _Nilai limit dari $y$ saat $x$ mendekati 1_
+
+Dalam persamaan matematis, pernyataan tersebut bisa dituliskan sebagai :
 
 $$
-
+\lim \limits_{x->1} y = \lim \limits_{x->1} \frac{x^2-1}{x-1} = 1
 $$  
 
 
