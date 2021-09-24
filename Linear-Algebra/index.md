@@ -13,8 +13,8 @@ Ini adalah contoh beberapa aplikasi yang pernah saya buat dengan memanfaatkan al
 Selamat membaca!
 
 # Content
-- [Sekilas Tentang Persamaan Linear](/persamaan-linear)
-- [Apa Itu Matriks?](/definisi-matriks)
+- [Sekilas Tentang Persamaan Linear](/Notes/Linear-Algebra/persamaan-linear)
+- Apa Itu Matriks?
 <hr/>
 
 <div align="center">  
