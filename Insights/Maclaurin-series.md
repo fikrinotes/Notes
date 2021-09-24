@@ -27,9 +27,10 @@ $$
 
 jika kita ingin semua syarat di atas terpenuhi, maka formula yang mungkin untuk mengekspresikan f(x) adalah :
 
+<div style="overflow-x: auto">
 $$
 f(x)=f(0)+f'(0)x+\frac{f"(0)}{2!}x^2 +\frac{f^{(3)}(0)}{3!}x^3 +\frac{f^{(4)}(0)}{4!}x^4+...
 $$
-
+</div>
 
 {% include footer.html %}
