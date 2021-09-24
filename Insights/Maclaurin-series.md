@@ -37,7 +37,7 @@ $$
 
 untuk penjelasan lebih lanjut, silakan lihat video dari [Khan Academy](https://youtube.com/watch?v=epgwuzzDHsQ) ini.
 
-##Persamaan Yang Mengagumkan
+## Persamaan Yang Mengagumkan
 
 sekarang, dengan formula di atas, kita bisa mengetahui deret maclaurin untuk sin(x), cos(x) dan $e^x$.jika anda melakukan proses diferensiasi dengan benar, anda akan mengetahui bahwa:
 
