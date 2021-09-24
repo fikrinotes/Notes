@@ -12,11 +12,13 @@ Ini adalah contoh beberapa aplikasi yang pernah saya buat dengan memanfaatkan al
 
 Selamat membaca!
 
-Soal : $$\frac{2x}{3x^2+23y}+5$$
+# Content
+- [Sekilas Tentang Persamaan Linear](/persamaan-linear)
+- [Apa Itu Matriks?](/definisi-matriks)
 <hr/>
 
 <div align="center">  
-Created With ♥️ by Fikri Mulyana Setiawan using Github Markdown  
+Created by <a href="fikrinotes.netlify.app">Fikri Mulyana Setiawan</a> 
 </div>
 
 {% include footer.html %}
