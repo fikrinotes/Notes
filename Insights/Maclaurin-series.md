@@ -55,5 +55,32 @@ e^x=1+x+\frac{1}{2!}x^2+\frac{1}{3!}x^3+\frac{1}{4!}x^4+\frac{1}{5!}x^5+...
 $$
 </div>
 
+mulai dari sini, kita akan melakukan sedikit manipulasi. kita sudah mengetahui deret maclaurin dari $e^x$. apa yang terjadi jika $e^x$ dipangkatkan dengan bilangan imajiner $i$?. caranya sama seperti deret maclaurin untuk $e^x$, hanya saja, nilai $x$ sekarang kita buat menjadi $ix$ ,sehingga:
+
+<div style="overflow-x: auto">
+$$
+e^{ix}=1+ix-\frac{1}{2!}x^2-i\frac{1}{3!}x^3+\frac{1}{4!}x^4+i\frac{1}{5!}x^5+...
+$$
+
+$$
+e^{ix}=(1-\frac{1}{2!}x^2+\frac{1}{4!}x^4+...)+i(x-\frac{1}{3!}x^3+\frac{1}{5!}x^5+...)
+$$
+</div>
+
+$1-\frac{1}{2!}x^2+\frac{1}{4!}x^4+...$ adalah formula untuk cos(x) dan $x-\frac{1}{3!}x^3+\frac{1}{5!}x^5+...$ adalah formula untuk sin(x). sehingga: 
+
+<div style="overflow-x: auto">
+$$
+e^{i\pi}=-1
+$$
+
+$$
+e^{i\pi}+1=0
+$$
+</div>
+
+Persamaan $e^{i\pi}+1=0$ dikenal sebagai identitas euler, dan merupakan salah satu persamaan paling indah dalam matematika
+
+jika anda kurang paham dengan penjelasan di atas, silakan lihat pembahasan lebih detail dengan [klik disini](https://fikrinotes.netlify.app/Euler_Identity.pdf). sekarang, balik ke pertanyaan tadi. bisakah anda merubah formula $S_n=\frac{a}{(1-r)}$ kembali menjadi bentuk deret geometri kembali dengan menggunakan deret maclaurin?
 
 {% include footer.html %}
